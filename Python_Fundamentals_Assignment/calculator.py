@@ -6,7 +6,7 @@ def calculator():
     print("2. Subtraction:")
     print("3. Multiplication:")
     print("4. Division:")
-    print("5. Modulus:")
+    print("4. Modulus:")
 
     def add(n1,n2):
         return n1+n2
