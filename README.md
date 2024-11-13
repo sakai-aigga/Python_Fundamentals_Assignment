@@ -21,4 +21,11 @@ The project is divided into 4 sections:
     and view tasks. The tasks are stored in a list and the user can interact 
     with the list using the provided options.
 
+Also there are some other tasks that I performed during the course:
+    
+    Task: Temperature Converter: This is a simple program that asks user ti input 
+    a temperature value and its unit and converts it to the other degree unit. 
+    Such as, if you enter a value in celcius then the programs returns its value in 
+    fahrenheit.
+    
 ## The code is free for you to copy and make changes to.
