@@ -27,5 +27,13 @@ Also there are some other tasks that I performed during the course:
     a temperature value and its unit and converts it to the other degree unit. 
     Such as, if you enter a value in celcius then the programs returns its value in 
     fahrenheit.
+
+Another task here is on Data Analysis. This task involves using the attributes of
+libraries like Numpy, Pandas and Matplotlib:
+
+    Task: NEPSE data analysis: A sample data has been retrieved on the 65 days 
+    NEPSE Index value and we are to analyze the data on some given scenarios 
+    like searching the index of last 7  days and plotting them in a graph.
+    Varius concepts and attributes has been used to build this program.
     
 ## The code is free for you to copy and make changes to.
