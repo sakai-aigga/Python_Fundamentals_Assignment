@@ -35,5 +35,17 @@ libraries like Numpy, Pandas and Matplotlib:
     NEPSE Index value and we are to analyze the data on some given scenarios 
     like searching the index of last 7  days and plotting them in a graph.
     Varius concepts and attributes has been used to build this program.
-    
+
+Prediction Model training
+
+    Another project I've done is a model that I trained with a dataset available on
+    Github. The task's done in the projects are:
+        1. Imported the data
+        2. Checked tha data for any null values
+        3. Created a Linear regression model that predicts calories burned using 
+        Session Duration feature
+        4. Trained the model
+        5. Calculate the calories burnt per hour on the basis of the model by asking 
+        user for session duration.
+        
 ## The code is free for you to copy and make changes to.
